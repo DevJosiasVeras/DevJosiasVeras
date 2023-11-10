@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DevJosiasVeras
 - 👀 I’m interested in learn and work !
-- 🌱 I’m currently learning python and c++ :)
 - 💞️ I try to collaborate as much as possible with what I know <3
 - 📫 How to reach me -> josiasverasti@gmail.com
